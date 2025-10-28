@@ -31,5 +31,5 @@ def commit_changes_with_emoji(repo_path, commit_message):
 # Пример использования
 repo_path = r"C:\Users\Администратор\Desktop\2810"  # Замените на путь к вашему репозиторию
 commit_message = "Исправил баг"  # Замените на ваше сообщение
-#  
+
 commit_changes_with_emoji(repo_path, commit_message)
